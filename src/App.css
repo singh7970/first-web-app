@@ -1,0 +1,64 @@
+.second{
+text-align: center;
+  color: rgba(125, 189, 82, 0.767);
+}
+.pera{
+  color: blue;
+  background-color: rgb(129, 231, 120);
+}
+
+.action{
+  position: absolute;
+  top: 59%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+
+}
+
+
+
+.page{
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(13, 77, 77);
+}
+.col1{
+  color: blue;
+  background-color: aqua;
+}
+
+.Form{
+  position: absolute;
+  text-align: center;
+  margin:0 auto;
+  left: 30%;
+  top: 35%;}
+
+.lower{
+
+  border-top: 2px solid #333; 
+ 
+  margin: 10px;
+  border-radius: 10px;
+  width: 150px;
+  height: 40px;
+  background-color: rgb(238, 166, 59);
+  }
+  .dele{
+    margin: 10px;
+    padding: 7px;
+    background-color: rgb(238, 94, 94);
+    border-radius: 5cm;
+  }
+.ALL{
+  text-align: center;
+    
+  
+ 
+}
+.all2{
+  text-align: center;
+}
